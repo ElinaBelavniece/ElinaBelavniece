@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 --->
 https://www.instagram.com/idea_lab_119?igsh=M2ZlMG01czFnMWZ0&utm_source=qr
 ![image](https://github.com/user-attachments/assets/31fe5193-f301-4196-bfb5-59a7223e5e65)
-https://github.com/ElinaBelavniece/IDEA_LAB_119/commit/e63f23ceb8aecd130580bfa7035e9e83cdf96635
+![image] (https://github.com/ElinaBelavniece/IDEA_LAB_119/commit/e63f23ceb8aecd130580bfa7035e9e83cdf96635)
