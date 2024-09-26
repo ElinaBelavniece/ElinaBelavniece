@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ElinaBelavniece
-- 👀 I’m interested in ...Creative Projects
+- 👀 I’m interested in ...Creative Projects / https://www.linkedin.com/company/86672732/admin/page-posts/published/
 - 🌱 I’m currently learning ...GitHub
 - 💞️ I’m looking to collaborate on ...Ideas, E-commerce, Branding, etc.
 - 📫 How to reach me ...LinkedIn msg.
