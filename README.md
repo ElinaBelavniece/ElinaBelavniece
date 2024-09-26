@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...Ideas, E-commerce, Branding, etc.
 - 📫 How to reach me ...LinkedIn msg.
 - 😄 Pronouns: ...Her, She
-- ⚡ Fun fact: I do work --->work---> work until I need a break and then all fun can start :)
+- ⚡ Fun fact: I do work --->work---> work until I need a Break and then all Fun can Start :)
 
 <!---
 ElinaBelavniece/ElinaBelavniece is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
